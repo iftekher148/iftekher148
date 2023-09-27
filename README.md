@@ -24,6 +24,7 @@ I am passionate about software testing. I am working as a Penetration tester. I 
 - 💪 Manual Testing
 - 💀 DataBase Testing
 - 💥 API Testing with Postman
+- 💥 Perfomance Testing With JMeter
 - 💀 Project Management Tool Jira
 - 💥 Web Automation With Selenium
 
