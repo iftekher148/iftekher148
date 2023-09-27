@@ -7,7 +7,25 @@ I am passionate about software testing. I am working as a Penetration tester. I 
 - 🌱 I’m currently learning Software Quality Assurance 
 - 👯 I’m looking to collaborate on Software Testing 
 - 💬 Ask me about Software Testing 
-- 📫 How to reach me: https://www.linkedin.com/in/iftekher-alam-rocktim 
+- 📫 How to reach me: https://www.linkedin.com/in/iftekher-alam-rocktim
+
+# Skills & Experience :
+- 💻 Python3 / Java / C / C++ / Webcoding(HTML,CSS,Java Script,MySQL)
+
+- 💥 Linux OS / Windows OS / Kali OS
+
+- 💪 Web-Pentesting / OSINT
+
+- 💀 Ethical Hacking / Basic Networking / CTF
+
+- 👀 Try Hack Me / Cyber Talents
+
+- 🔥 Metasploit / Nmap / Wpscan / Burp-suite / Wireshark / gobuster / dirsearch / Hydra etc
+- 💪 Manual Testing
+- 💀 DataBase Testing
+- 💥 API Testing with Postman
+- 💀 Project Management Tool Jira
+- 💥 Web Automation With Selenium
 
 
 
