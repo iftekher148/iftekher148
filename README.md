@@ -38,7 +38,7 @@ I am passionate about software testing. I am working as a Penetration tester. I 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iftekher148)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/iftekher148)  
+
 
 
 
